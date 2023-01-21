@@ -19,6 +19,10 @@
 .align {
 	align-items: center;
 }
+}
+.left_img img {
+	margin-top: 169px;
+}
 nav ul {
 	list-style: none;
 }
